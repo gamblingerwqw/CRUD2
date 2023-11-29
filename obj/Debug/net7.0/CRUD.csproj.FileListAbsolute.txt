@@ -1,0 +1,15 @@
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/bin/Debug/net7.0/CRUD
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/bin/Debug/net7.0/CRUD.deps.json
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/bin/Debug/net7.0/CRUD.runtimeconfig.json
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/bin/Debug/net7.0/CRUD.dll
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/bin/Debug/net7.0/CRUD.pdb
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/CRUD.csproj.AssemblyReference.cache
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/CRUD.AssemblyInfoInputs.cache
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/CRUD.AssemblyInfo.cs
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/CRUD.csproj.CoreCompileInputs.cache
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/CRUD.dll
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/refint/CRUD.dll
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/CRUD.pdb
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/CRUD.genruntimeconfig.cache
+/Users/igormatvijcuk/CRUD/CRUD/CRUD/obj/Debug/net7.0/ref/CRUD.dll
